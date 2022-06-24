@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "snowpack dev",
+    "dev:netlify": "netlify dev",
     "build": "snowpack build"
   },
   "keywords": [],
@@ -26,6 +27,7 @@
     "loadash": "^1.0.0",
     "lodash": "^4.17.21",
     "lodash.upperfirst": "^4.3.1",
+    "netlify-cli": "^10.6.2",
     "postcss": "^8.4.14",
     "qs": "^6.10.5",
     "snowpack": "^3.8.8",
